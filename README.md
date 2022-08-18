@@ -26,5 +26,5 @@ and so on
 
 These numbers can be seen by running the TOPIK.py file
 
-This is website link: https://ali1299.github.io/website1/index.html
+
 
