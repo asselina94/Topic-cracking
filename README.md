@@ -22,7 +22,7 @@ If there are 500 most frequent words are chosen, then they make 50% (43894) of a
 
 If there are 600 most frequent words are chosen, then they make 53% (46265) of all 86584 words
 
-and so on
+and so on.
 
 These numbers can be seen by running the TOPIK.py file
 
